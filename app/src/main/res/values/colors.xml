@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="top_color">#ff3097fd</color>
+    <color name="more_bg_color_1">#22000000</color>
+    <color name="more_bg_color_2">#55999797</color>
+    <color name="more_tv_color_1">#ef7707</color>
+    <color name="more_tv_color_2">#f208b8</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#DCBA75</color>
+    <color name="black">#000</color>
+    <color name="remote_user_bg">#3B3E4D</color>
+</resources>

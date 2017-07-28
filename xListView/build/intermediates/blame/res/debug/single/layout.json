@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\AtguiguCode\\MobilePlayer2\\xListView\\src\\main\\res\\layout\\xlistview_header.xml"
+    }
+]

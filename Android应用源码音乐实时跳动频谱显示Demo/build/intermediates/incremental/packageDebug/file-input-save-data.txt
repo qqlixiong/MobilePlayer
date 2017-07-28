@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Jul 27 22:18:45 CST 2017
+2.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\z8806c.mp3
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\icon.png
+0.set=ANDROID_RESOURCE

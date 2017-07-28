@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Jul 27 22:23:17 CST 2017
+2.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_second.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+10.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\AtguiguCode\\MobilePlayer2\\tryEventBus_simple\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\second.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

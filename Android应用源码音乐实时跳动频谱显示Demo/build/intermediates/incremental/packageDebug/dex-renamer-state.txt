@@ -1,0 +1,4 @@
+#Thu Jul 27 22:18:45 CST 2017
+base.0=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\AtguiguCode\\MobilePlayer2\\Android应用源码音乐实时跳动频谱显示Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
