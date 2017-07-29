@@ -12,6 +12,7 @@ import android.os.Environment;
 
 import com.example.mobileplayer2.activity.BaseEngineEventHandlerActivity;
 import com.example.mobileplayer2.interfaces.IStatusBar;
+import com.example.mobileplayer2.more.channel.handler.MessageHandler;
 import com.gyf.barlibrary.ImmersionBar;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
@@ -59,6 +60,8 @@ public class MyApplication extends Application implements Application.ActivityLi
         initUniversalImageLoader();
 
         registerActivityLifecycleCallbacks(this);
+        //将“12345678”替换成您申请的APPID，申请地址：http://open.voicecloud.cn
+        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=56f4c1dd");
     }
 
 

@@ -3,7 +3,8 @@ package com.example.mobileplayer2.utils;
 import android.content.Context;
 
 import com.example.mobileplayer2.R;
-import com.example.mobileplayer2.bean.MoreBean;
+import com.example.mobileplayer2.more.bean.MoreBean;
+import com.example.mobileplayer2.more.robot.utils.UIUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -38,10 +39,14 @@ public class Constants {
 
     public static final List<MoreBean> getMoreList(Context context){
         List<MoreBean> list = new ArrayList<>();
-        MoreBean moreBean = new MoreBean();
-        moreBean.setFont(context.getResources().getString(R.string.more_font_1));
-        moreBean.setName("直播室");
-        list.add(moreBean);
+        String[] keys = UIUtils.getString(context,R.string.font_channel,R.string.font_robot);
+        String[] values = new String[]{"直播室","机器人"};
+        for(int i=0;i<keys.length;i++){
+            MoreBean moreBean = new MoreBean();
+            moreBean.setFont(keys[i]);
+            moreBean.setName(values[i]);
+            list.add(moreBean);
+        }
         return list;
     }
 }

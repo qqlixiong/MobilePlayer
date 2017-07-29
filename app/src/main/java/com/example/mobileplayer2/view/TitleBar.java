@@ -8,7 +8,7 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.example.mobileplayer2.R;
-import com.example.mobileplayer2.activity.MoreActivity;
+import com.example.mobileplayer2.more.activity.MoreActivity;
 import com.example.mobileplayer2.activity.SearchActivity;
 
 /**

@@ -3,8 +3,8 @@
           package="com.example.mobileplayer2">
 
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
     <uses-permission android:name="android.permission.READ_LOGS"/>
     <!-- 连接网络权限，用于执行云端语音能力 -->
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -27,6 +27,8 @@
     <!-- 配置权限，用来记录应用配置信息 -->
     <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:name=".MyApplication"
@@ -299,14 +301,19 @@
         </service>
 
         <activity android:name=".activity.SearchActivity"/>
-        <activity android:name=".activity.MoreActivity"
+        <activity
+            android:name=".more.activity.MoreActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".more.channel.activity.ChannelActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".more.robot.activity.RobotActivity"
+                  android:theme="@style/AppTheme.FullscreenNoActionBar"
                   android:screenOrientation="portrait">
         </activity>
-
-        <activity android:name="com.example.mobileplayer2.activity.ChannelActivity"
-                  android:configChanges="orientation|keyboardHidden|screenSize"
-                  android:launchMode="singleTop"
-                  android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
